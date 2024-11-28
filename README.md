@@ -1,15 +1,16 @@
 # SAP_CAP_MODEL
-Programming Model for Business Applications on SAP HANA Cloud &amp SAP BTP this course was created
+#Programming Model for Business Applications on SAP HANA Cloud & SAP BTP 
 
 Summary, useful links,notes & scripts by YDEMY course 
-SAP BTP Training - From Basics to Advanced[Hands-On].
-IMPORTANT! Creation of SAP HANA Cloud DB Instances isn't
+#SAP BTP Training - From Basics to Advanced[Hands-On].
+#IMPORTANT!
+Creation of SAP HANA Cloud DB Instances isn't
 possible in the way that described in this course, Cloud Foundry interface 
 in the BTP cockpit was changed since this course was created( attached image with explanation).
 With some changes I succeded to create DB Instances on the space level
 but  login in HANA Cloud Central failed. 
 So I used an additional material from another course:
-"Learn SAP Cloud with User & Role Management[Hands On]".
+#"Learn SAP Cloud with User & Role Management[Hands On]".
 
 
 -----------------------------------------------------------
