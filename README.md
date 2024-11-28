@@ -10,7 +10,7 @@ in the BTP cockpit was changed since this course was created( attached image wit
 With some changes I succeded to create DB Instances on the space level
 but  login in HANA Cloud Central failed. 
 So I used an additional material from another course:
-## "Learn SAP Cloud with User & Role Management[Hands On]".**
+## "Learn SAP Cloud with User & Role Management[Hands On]".
 
 
 -----------------------------------------------------------
